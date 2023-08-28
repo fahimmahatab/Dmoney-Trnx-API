@@ -16,7 +16,7 @@
 - ``` npm i ```
 -  ``` npm test ```
 
-## D-money API Documentation
+## Dmoney-Trnx-API Documentation
 - https://documenter.getpostman.com/view/29168451/2s9Y5YShx3
 
 ## Test Report
