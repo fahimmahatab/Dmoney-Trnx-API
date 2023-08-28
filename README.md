@@ -19,5 +19,11 @@
 ## Dmoney-Trnx-API Documentation
 - https://documenter.getpostman.com/view/29168451/2s9Y5YShx3
 
+## Test Case File 
+- https://docs.google.com/spreadsheets/d/10D6fntK1615vX7hL6A_o0_GeBm4t5TZt/edit?usp=drive_link&ouid=114451614958698456450&rtpof=true&sd=true
+
+## Bug Report File
+- https://docs.google.com/spreadsheets/d/12v2QnYAOpR9N5LEEF21lHkNaiDyVmVi-/edit?usp=drive_link
+
 ## Test Report
 ![screencapture-file-F-ROAD-to-SDET-Project-Dmoney-Trnx-API-Reports-report-html-2023-08-29-02_05_12](https://github.com/fahimmahatab/Dmoney-Trnx-API/assets/43899673/3fa1ea0e-ef58-4dd4-b8f0-7df6e15ac957)
