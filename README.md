@@ -1,7 +1,7 @@
 # Dmoney-Trnx-API automation by postman & newman
 
 ## About this project:
-### D-money is a demo financial related project. where fake money can be transferred. In this project i have automate the D-money api using postman. Here I have covered following task as Login, create User(Agent),two User(Customer), Search user, Deposit money System account to Agent account. Deposit money system account to Customer account, Checking System balance, Checking agent balance and statement, Checking Customer balance and statement, Withdraw Ammount by the customer from Agent, Send money Customer to Another Customer, Customer Payment to Merchant Account and checking Merchant balance 
+### D-money is a demo financial related project. where fake money can be transferred. In this project i have automate the D-money api using postman. Here I have covered following task as Login, create User(Agent) & two User(Customer), Search user, Deposit money System account to Agent account. Deposit money system account to Customer account, Checking System balance, Checking agent balance and statement, Checking Customer balance and statement, Withdraw Ammount by the customer from Agent, Send money Customer to Another Customer, Customer Payment to Merchant Account and checking Merchant balance 
 
 ## Tools & Technology used:
 - postman
